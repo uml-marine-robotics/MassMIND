@@ -6,7 +6,7 @@
 
 </div>
 
-# **MassMIND: Massachusetts Maritime INfrared Dataset** [1]
+# **MassMIND: Massachusetts Maritime INfrared Dataset** [1](#references)
 
 MassMIND is an exhaustive dataset of real-life Long Wave Infrared (LWIR) images geared towards development of deep learning algorthms specifially for the Maritime domain. The dataset consists of 2916 diverse LWIR images captured in and around the Boston Harbor in Massachusetts, USA over a span of 2 years. The images have been recorded in a busy marine area as well as in not so busy ocean waters during various seasons and times of the day creating seasonal and temporal diversity. Each image has been segmented with pixel level instance segmentation and labeled across 7 different classes. This is the first publicly available dataset for LWIR maritime images. 
 

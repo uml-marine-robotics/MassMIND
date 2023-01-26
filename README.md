@@ -15,8 +15,8 @@ MassMIND is an exhaustive dataset of real-life Long Wave Infrared (LWIR) images 
 | Category                                      | 
 | :---:                                         | 
 | [LWIR Images](https://drive.google.com/file/d/1T572f0oqy5JmuTvVEwkSUeXLWOSHl4hL/view?usp=sharing)|
-| [LWIR Semantically segmented annotated masks](https://drive.google.com/file/d/16rPWhV8OEocyLLpT1-LSCALt757P_h0N/view?usp=sharing)|
-| [LWIR Instance segmented annotated masks](https://drive.google.com/file/d/1pHp480_Q-s72RoDf1nD7ERzsv9yZTDE1/view?usp=sharing)|
+| [LWIR Semantically segmented annotated masks]|(https://drive.google.com/file/d/1pHp480_Q-s72RoDf1nD7ERzsv9yZTDE1/view?usp=sharing)
+| [LWIR Instance segmented annotated masks]|(https://drive.google.com/file/d/16rPWhV8OEocyLLpT1-LSCALt757P_h0N/view?usp=sharing)|
 
 
 

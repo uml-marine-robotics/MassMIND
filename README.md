@@ -105,7 +105,7 @@ If you find this dataset useful, please cite our work as below:
 title = {{MassMIND: Massachusetts Marine INfrared Dataset}}
 author = {Nirgudkar, Shailesh and DeFilippo, Michael and Sacarny, Michael and Benjamin, Michael and Robinette, Paul},
 journal = {The International Journal of Robotics Research} 
-doi = {https://doi.org/10.1177/02783649231153020},
+doi = {[https://doi.org/10.1177/02783649231153020](https://doi.org/10.1177/02783649231153020)},
 Issue = {Open access} 
 }
 ```

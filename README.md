@@ -105,13 +105,13 @@ If you find this dataset useful, please cite our work as below:
 title = {{MassMIND: Massachusetts Marine INfrared Dataset}}
 author = {Nirgudkar, Shailesh and DeFilippo, Michael and Sacarny, Michael and Benjamin, Michael and Robinette, Paul},
 journal = {The International Journal of Robotics Research} 
-doi = {[https://doi.org/10.1177/02783649231153020](https://doi.org/10.1177/02783649231153020)},
+doi = {https://doi.org/10.1177/02783649231153020}
 Issue = {Open access} 
 }
 ```
   
 ## References 
-[1] Nirgudkar, Shailesh and DeFilippo, Michael and Sacarny, Michael and Benjamin, Michael and Robinette, Paul, MassMIND: Massachusetts Marine INfrared Dataset, Under review  
+[1] Nirgudkar, Shailesh and DeFilippo, Michael and Sacarny, Michael and Benjamin, Michael and Robinette, Paul, MassMIND: Massachusetts Marine INfrared Dataset, IJRR, 2023, open access, [https://doi.org/10.1177/02783649231153020]  
 [2] Shailesh Nirgudkar and Paul Robinette, Beyond visible light: Object Detection Using Long Wave Infrared Images in Maritime Environment, 2021 20th International Conference on Advanced Robotics (ICAR), 2021, pp. 1093-1100, doi: 10.1109/ICAR53236.2021.9659477  
 [3] MIT AUV Raw Dataset  https://seagrant.mit.edu/auvlab-datasets-marine-perception-1/  
 [4] Image Segmentation platform: https://segments.ai
